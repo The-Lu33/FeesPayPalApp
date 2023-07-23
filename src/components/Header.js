@@ -22,7 +22,7 @@ export default function Header({
     <View>
       <View>
         <Text className='text-orange-500 text-[23px] font-semibold text-center'>
-          Calculadora de Comsiones de PayPal
+          Calcular comisiones de PayPal
         </Text>
       </View>
       <View>
